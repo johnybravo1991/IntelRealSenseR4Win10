@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ABHIREALSENSE</Machine>
+    <WindowsUser>Abhishek</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>24edb4b0-399c-4967-8007-812448cdd383</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6B558F903AA8C1C0D9715C2D7C6FD87CBC0072B907C5B151ACCA12BF9F2919E0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>24edb4b0-399c-4967-8007-812448cdd383_1.0.2.0_neutral__sq9va4e45x4ta</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>24edb4b0-399c-4967-8007-812448cdd383_sq9va4e45x4ta!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>24edb4b0-399c-4967-8007-812448cdd383</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Abhishek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.2.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-17T11:10:48.375</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T17:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-04T17:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T17:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T17:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-04T17:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <Modified>2015-06-04T17:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T17:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-20T07:37:30.380</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

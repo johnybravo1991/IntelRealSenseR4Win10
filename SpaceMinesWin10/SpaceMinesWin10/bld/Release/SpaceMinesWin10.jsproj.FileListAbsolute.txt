@@ -1,0 +1,16 @@
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\AppxManifest.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\SpaceMinesWin10.build.appxrecipe
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\ResourceHandlingTask.state
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\priconfig.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\priconfig.xml.intermediate
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\layout.resfiles
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\layout.resfiles.intermediate
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\resources.resfiles
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\resources.resfiles.intermediate
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\pri.resfiles
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\pri.resfiles.intermediate
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\qualifiers.txt
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\qualifiers.txt.intermediate
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\MultipleQualifiersPerDimensionFound.txt
+c:\users\abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\ProjectArchitectures.txt
+C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\ReverseMap\resources.pri

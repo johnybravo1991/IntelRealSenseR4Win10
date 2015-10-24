@@ -1,0 +1,10 @@
+[Files]
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\LockScreenLogo.scale-200.png" "images\LockScreenLogo.scale-200.png"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\SplashScreen.scale-200.png" "images\SplashScreen.scale-200.png"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square150x150Logo.scale-200.png" "images\Square150x150Logo.scale-200.png"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square44x44Logo.scale-200.png" "images\Square44x44Logo.scale-200.png"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square44x44Logo.targetsize-24_altform-unplated.png" "images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\StoreLogo.png" "images\StoreLogo.png"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Wide310x150Logo.scale-200.png" "images\Wide310x150Logo.scale-200.png"
+"C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\resources.pri" "resources.pri"

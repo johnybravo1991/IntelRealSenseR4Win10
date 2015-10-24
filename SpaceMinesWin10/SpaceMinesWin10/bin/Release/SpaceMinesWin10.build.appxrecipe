@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ABHIREALSENSE</Machine>
+    <WindowsUser>Abhishek</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>24edb4b0-399c-4967-8007-812448cdd383</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bld\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhishek\documents\visual studio 2015\Projects\SpaceMinesWin10\SpaceMinesWin10\bin\Release\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
