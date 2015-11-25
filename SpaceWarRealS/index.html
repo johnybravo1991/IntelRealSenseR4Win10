@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Space Mines Web Arcade</title>
+
+        <script src="https://www.promisejs.org/polyfills/promise-6.1.0.js"></script>
+        <script src="https://autobahn.s3.amazonaws.com/autobahnjs/latest/autobahn.min.jgz"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript" src="js\realsense.js"></script>
+        <script type="text/javascript" src="js\mygame.js"></script>
+        <link rel="stylesheet" type="text/css" href="js\style.css">
+      
+        // Developed using with Intel&reg; RealSense&trade; Technology
+        </script>
+        
+        
+        
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        
+        <div id="splashscreen">
+            <img src="js/spacemines.jpg">
+            <p>Space Mines,a game</p>
+        </div>
+        
+        <div id="check">
+            <p>Checking your platform...</p>
+            <br />
+        </div>
+        <div id="checkok" onclick="PlatformReady();">
+            <p>Your platform is ready to run this sample...</p>
+            <br />
+        </div>
+        <div id="fail">
+        </div>
+        <div id="download">
+            <p>Prepare your platform for the Intel<sup>&reg;</sup> RealSense<sup>&trade;</sup> experience...</p>
+            <p>Please download and install <a href="https://software.intel.com/en-us/realsense/webapp_setup_v6.exe">this software</a>, which checks your platform and installs necessary software to run this sample.</p>
+            <p>Reload your browser page when installation is complete.</p>
+            <br />
+        </div>
+        <div id="privacy" onclick="PrivacyClose();">
+            <p>The sample is about to activate your camera for navigation controls. Click here to proceed...</p>
+        </div>
+       
+        
+        <div id="appcontext">
+            <canvas id="myCanvas" style="border:1px solid #ffffff;  background-color:black; margin: 0 auto; width:640 ; height:480;">
+      </canvas> 
+            <div id="app_context_wrap">  
+                <button id="Start">Start Game</button>
+                <button id="Stop" disabled="disabled">Stop Game</button>
+            </div>
+            <div id="instructions">
+                <p>This game is controlled using the Intel<sup>&reg;</sup> RealSense<sup>&trade;</sup> depth camera<br>
+                    Click Start to start or continue game. Click Stop to pause game.
+                    </p>
+            <p>Objective: Clear each level by turning all red mines into blue mines</p>
+            <p>Aim: Move the crosshairs over red mines turning and tilting head to point your nose at red mines.</p>
+            <p>Fire: Open mouth to fire lasers at mines to turn them blue</p>
+            <p>Killing Enemies: Enemies are destroyed by blue mines or when all red mines are blue.</p>    
+            </div>
+        </div>
+    </body>
+</html>

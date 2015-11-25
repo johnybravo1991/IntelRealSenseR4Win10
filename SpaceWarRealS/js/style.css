@@ -1,0 +1,109 @@
+/*STEP 3: Add custom style to this stylesheet */
+
+* {
+    font-family: monospace;
+     color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+  }
+
+.float-left{
+    float: left;
+}
+#myCanvas, #myTable {
+    padding: 0;
+    margin: auto;
+    width: 640;
+    height: 480;
+    display: block;
+    
+}
+
+#myTable {
+    vertical-align: top;
+}
+
+#work_space {
+    overflow: hidden;
+}
+
+button{
+color:#08233e;
+
+}
+
+#app_context_wrap {
+    margin-left: 5px;
+     
+}
+
+/*End custom style */
+body {
+    text-align: center;
+    text-indent: 1em;
+    background-color: black;
+    align-content: center;
+}
+
+#splashscreen {
+    align-content: center;
+}
+
+#pageheader {
+    color: lightblue;
+}
+
+#check {
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    border: thin solid white;
+    border-radius: 10px;
+}
+
+#checkok {
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    border: thin solid white;
+    border-radius: 10px;
+}
+
+#fail {
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    border: thin solid red;
+    border-radius: 10px;
+}
+
+#download {
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    border: thin solid white;
+    border-radius: 10px;
+}
+
+#privacy {
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    border: thin solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#privacyheader {
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    border: thin solid white;
+    border-radius: 10px;
+}
+
+#appcontext {
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+}
